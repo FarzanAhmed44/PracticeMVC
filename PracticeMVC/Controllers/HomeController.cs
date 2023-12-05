@@ -17,6 +17,8 @@ namespace PracticeMVC.Controllers
         {
             ViewBag.Message = "Your application description page.";
             ViewBag.Message = "Your application  page.";
+            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application  page.";
             return View();
         }
 
